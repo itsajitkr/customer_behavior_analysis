@@ -122,37 +122,6 @@ Highlight Top Products: Use best-rated items in campaigns
 
 Target High-Value Segments: Age groups & customers who prefer express shipping
 
-🚀 8. How to Run This Project
-1. Clone Repository
-git clone https://github.com/your-username/shopping-behavior-analysis.git
-cd shopping-behavior-analysis
-
-2. Install Python Requirements
-pip install -r requirements.txt
-
-3. Run the Jupyter Notebook
-
-Open:
-
-analysis.ipynb
-
-4. Load SQL Scripts
-
-Use scripts in /sql_queries for PostgreSQL, MySQL, or SQL Server.
-
-5. Open Power BI Dashboard
-
-Load:
-
-dashboard.pbix
-
-6. View Final Report
-
-Located in:
-/reports/Customer_Shopping_Behavior_Report.pdf
-
-Gamma presentation:
-/presentation/Shopping_Behavior_Presentation.gslides or Gamma link.
 
 👤 Author
 
